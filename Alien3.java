@@ -3,7 +3,7 @@ package Galaga.Characters;
 import java.awt.Graphics;
 
 /**
- * @author Brian
+ * @author Brian @author Peteous
  */
 public class Alien3 extends Alien {
     public Alien3(Graphics page) {
