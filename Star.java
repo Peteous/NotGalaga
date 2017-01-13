@@ -10,7 +10,7 @@ import java.util.Random;
 
 /**
  *
- * @author Brian
+ * @author Brian, @author Peteous
  */
 public class Star {
     Random rand = new Random();
