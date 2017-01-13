@@ -3,7 +3,7 @@ package Galaga.Characters;
 import java.awt.Graphics;
 
 /**
- * @author Brian
+ * @author Brian @author Peteous
  */
 public class Alien extends Ship {
     protected double i=0,sin=0,cos=0;
