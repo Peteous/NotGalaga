@@ -6,7 +6,7 @@ import java.awt.Point;
 import java.util.ArrayList;
 
 /**
- * @author Brian
+ * @author Brian @author Peteous
  */
 public class Ship extends Object {
 
