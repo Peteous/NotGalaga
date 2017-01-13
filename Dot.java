@@ -1,7 +1,7 @@
 package Galaga.Characters;
 
 /**
- * @author Brian
+ * @author Brian @author Peteous
  */
 import java.awt.Color;
 import java.awt.Graphics;
