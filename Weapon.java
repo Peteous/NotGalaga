@@ -5,7 +5,7 @@ import java.awt.Color;
 import java.util.ArrayList;
 
 /**
- * @author Brian
+ * @author Brian @author Peteous
  */
 public class Weapon {
 
